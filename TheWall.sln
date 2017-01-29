@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWall", "TheWall\TheWall.csproj", "{7CFCEB4B-0B43-44F7-A3A2-9AFA013E6F78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWall.Tests", "TheWall.Tests\TheWall.Tests.csproj", "{AFF7C934-B92F-4EE1-B4E7-843D990F6FAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CFCEB4B-0B43-44F7-A3A2-9AFA013E6F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CFCEB4B-0B43-44F7-A3A2-9AFA013E6F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CFCEB4B-0B43-44F7-A3A2-9AFA013E6F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CFCEB4B-0B43-44F7-A3A2-9AFA013E6F78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFF7C934-B92F-4EE1-B4E7-843D990F6FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF7C934-B92F-4EE1-B4E7-843D990F6FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF7C934-B92F-4EE1-B4E7-843D990F6FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF7C934-B92F-4EE1-B4E7-843D990F6FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
